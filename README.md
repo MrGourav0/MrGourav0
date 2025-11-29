@@ -10,60 +10,21 @@ Full Stack Developer with expertise in MERN stack, based in Delhi, India. Passio
 
 ## Technical Skills
 
-**Frontend:** React, Next.js, JavaScript, TypeScript, Tailwind CSS, HTML5, CSS3
+**Frontend:** React, JavaScript, Tailwind CSS, HTML5, CSS3
 
 **Backend:** Node.js, Express.js, MongoDB, Mongoose, JWT
 
 **Tools:** Git, GitHub, VS Code, Postman
-## Featured Projects
 
-### FoodBowl - Food Delivery Platform
-**Full-Stack MERN Application**
-- Complete food ordering system with real-time order tracking
-- Secure JWT-based authentication & authorization
-- RESTful APIs with 50+ endpoints
-- Responsive UI with React & Tailwind CSS
-- MongoDB with optimized data models
 
-**Tech:** MongoDB | Express.js | React.js | Node.js | Tailwind CSS
-
-### Real-Time Weather Dashboard
-**API Integration Project**
-- Dynamic weather app with external API integration
-- Location-based weather forecasting
-- Clean UI with modern JavaScript (ES6+)
-- Optimized API calls with error handling
-
-**Tech:** JavaScript | REST API | HTML5 | CSS3
-
-### Amazon Clone
-**E-Commerce Frontend**
-- Pixel-perfect Amazon frontend design
-- Responsive layouts for all screen sizes
-- Semantic HTML with advanced CSS techniques
-
-**Tech:** HTML5 | CSS3 | JavaScript
-
-### TaskFlow - Task Management
-**CRUD Operations Application**
-- Full-featured task manager with CRUD functionality
-- State management for seamless UX
-- Data persistence with local storage
-
-**Tech:** React.js | JavaScript | CSS3
-
-## Currently Learning
-
-JavaScript | React | Node.js | MongoDB | Express.js
 
 ## Let's Connect
 
 📧 **Email:** gouravverma8319@gmail.com
 
-💼 **LinkedIn:** [Connect with me](https://linkedin.com/)
+💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/gourav-verma-b097632b1/)
 
-🌐 **Portfolio:** [View my work](https://github.com/MrGourav0)
+🌐 **Portfolio:** [View my work](https://my-portfolio-beta-plum-97.vercel.app/)
 
 ---
 
-*"Code is like humor. When you have to explain it, it's bad." – Cory House*
