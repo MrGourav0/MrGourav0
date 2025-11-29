@@ -14,8 +14,7 @@ Full Stack Developer with expertise in MERN stack, based in Delhi, India. Passio
 
 **Backend:** Node.js, Express.js, MongoDB, Mongoose, JWT
 
-**Tools:** Git, GitHub, VS Code, Postman, Docker, Vercel
-
+**Tools:** Git, GitHub, VS Code, Postman
 ## Featured Projects
 
 ### FoodBowl - Food Delivery Platform
@@ -55,7 +54,7 @@ Full Stack Developer with expertise in MERN stack, based in Delhi, India. Passio
 
 ## Currently Learning
 
-TypeScript | Docker & Kubernetes | System Design | AI Integration | Data Structures & Algorithms | Next.js
+JavaScript | React | Node.js | MongoDB | Express.js
 
 ## Let's Connect
 
