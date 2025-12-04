@@ -6,7 +6,7 @@
 
 ## About Me
 
-Full Stack Developer with expertise in MERN stack, based in Delhi, India. Passionate about building production-ready applications and solving complex problems through clean, efficient code.
+Full Stack Developer with expertise in MERN stack, Passionate about building production-ready applications and solving complex problems through clean, efficient code.
 
 ## Technical Skills
 
